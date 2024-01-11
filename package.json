@@ -1,0 +1,15 @@
+{
+  "name": "module1",
+  "version": "1.0.0",
+  "description": "Repository to save all module 1 class work",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
